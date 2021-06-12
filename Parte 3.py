@@ -1,0 +1,12 @@
+print("回回回回回回回回回回回回回")
+print("回                   回")
+print("回      Grados       回")
+print("回                   回")
+print("回回回回回回回回回回回回回")
+print()
+print("De  Celsius a Fahrenheit")
+C = float(input("Porfavor digite sus grados Celsius: "))
+
+RT = ((C * 9/5)+32)
+print()
+print("Resultado:", RT,"°""Fahrenheit")
