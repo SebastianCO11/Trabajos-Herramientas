@@ -23,4 +23,4 @@
 ##### Este lo podemos encontrar el archivo Parte6.Py 
 
 ##### Y finalmente para nuestro ultimo ejercisio se nos pide elaborar un algoritmo que permita hallar el estudiante con mejor promedio de un curso de 30 estudiantes, donde entra una unica variable a preguntar por la nota del estudiante
-##### Este lo podemos encontrar el archivo Parte7.Py 
+##### Este lo podemos encontrar el archivo Parte7.Py
